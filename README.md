@@ -1,5 +1,7 @@
 # Hand Gesture Interactive Reactions (p5.js + ml5.js)
 
+**[Youtube Link] : https://www.youtube.com/watch?v=Zo_0kY2xoNE**
+
 ## 프로젝트
 [임베디드통신시스템 - 제스쳐와 화면 송출] 과제로, **p5.js**와 **ml5.js**(handPose 모델)를 활용해 웹캠을 통한 **핸드 제스처 인식**을 구현하고,  
 이를 기반으로 **인터랙티브 리액션(이모지 버튼, 그림 그리기, 부분 삭제, 색상 선택 등)** 기능을 제공하는 예시입니다.  
